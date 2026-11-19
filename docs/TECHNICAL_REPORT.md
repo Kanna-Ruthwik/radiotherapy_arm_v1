@@ -117,12 +117,6 @@ initial-condition transient is much larger and highlights the need for
 acquisition/settling logic before tracking. These results do not imply
 treatment accuracy or safety.
 
-## Individual contributions
-
-| Member | Contribution |
-|---|---|
-| Complete with each group member's actual work | |
-
 ## Reproducibility
 
 Install `requirements.txt`, run `python robot_simulation.py`, run
